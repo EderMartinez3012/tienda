@@ -5,45 +5,45 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Sombrero vueltiao con la bandera de Colombia, 23 vueltas',
+            nombre: 'Telefono Galaxy A16 5g',
             precio: 250000,
-            imagen: 'assets/img/feature_prod_01.jpg',
-            categoria: 'sombreros'
+            imagen: 'assets/img/telefono-2.jpg',
+            categoria: 'telefonos'
         },
         {
             id: 2,
-            nombre: 'Sombrero vueltiao-machiembriao',
+            nombre: 'Telefono Samsung Galaxy Z Flip 5',
             precio: 150000,
-            imagen: 'assets/img/sombrero4.jpg',
-            categoria: 'sombreros'
+            imagen: 'assets/img/telefono-3.jpg',
+            categoria: 'telefonos'
         },
         {
             id: 3,
-            nombre: 'Sombrero vueltiao colombiano 15 vueltas tricolor',
+            nombre: 'Telefono Xiaomi 15 (256GB y 512GB)',
             precio: 250000,
-            imagen: 'assets/img/feature_prod_02.jpg',
-            categoria: 'sombreros'
+            imagen: 'assets/img/telefono-4.png',
+            categoria: 'telefonos'
         },
         {
             id: 4,
-            nombre: 'Mochila wayuu azul 6',
+            nombre: 'Audifonos grandes',
             precio: 120000,
-            imagen: 'assets/img/shop_04.jpg',
-            categoria: 'mochilas'
+            imagen: 'assets/img/audifonos.jpg',
+            categoria: 'audifonos'
         },
         {
             id: 5,
-            nombre: 'Bolso en fique',
+            nombre: 'Reloj digital',
             precio: 120000,
-            imagen: 'assets/img/shop_03.jpg',
-            categoria: 'bolsos'
+            imagen: 'assets/img/reloj.jpg',
+            categoria: 'relojes'
         },
         {
             id: 6,
-            nombre: 'Hamaca',
+            nombre: 'Parlante',
             precio: 120000,
-            imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'hamacas'
+            imagen: 'assets/img/parlante.jpg',
+            categoria: 'parlantes'
         }
     ];
 
